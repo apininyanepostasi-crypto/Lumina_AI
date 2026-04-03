@@ -1,0 +1,501 @@
+text,topic
+Create an image of a sunset over the sea.," ""image"""
+Generate a drawing of a flying dragon.," ""image"""
+I would like to see a portrait of a lion.," ""image"""
+Draw a snowy landscape with a small house.," ""image"""
+Can you create an image of a sleeping cat?," ""image"""
+I want an illustration of a robot in the future.," ""image"""
+Graphically represent a blooming garden.," ""image"""
+Can you show me a painting of a tropical forest?," ""image"""
+Generate an image of a space station.," ""image"""
+I would like a drawing of a medieval castle.," ""image"""
+Create an image of a sunset over the sea.," ""image"""
+Generate a drawing of a flying dragon.," ""image"""
+I would like to see a portrait of a lion.," ""image"""
+Draw a snowy landscape with a small house.," ""image"""
+Can you create an image of a sleeping cat?," ""image"""
+I want an illustration of a robot in the future.," ""image"""
+Graphically represent a blooming garden.," ""image"""
+Can you show me a picture of a tropical forest?," ""image"""
+Generate an image of a space station.," ""image"""
+I would like a drawing of a medieval castle.," ""image"""
+Wikipedia Leonardo da Vinci," ""wikipedia"""
+Wikipedia Ancient Rome," ""wikipedia"""
+Wikipedia Eiffel Tower?," ""wikipedia"""
+Wikipedia Albert Einstein," ""wikipedia"""
+Wikipedia French Revolution," ""wikipedia"""
+Wikipedia Galileo Galilei," ""wikipedia"""
+Wikipedia Byzantine Empire," ""wikipedia"""
+Wikipedia Theory of Relativity?," ""wikipedia"""
+Wikipedia Dinosaurs.," ""wikipedia"""
+wikipedia Michelangelo," ""wikipedia"""
+wikipedia World War II.," ""wikipedia"""
+wikipedia History of the United States of America," ""wikipedia"""
+wikipedia Isaac Newton," ""wikipedia"""
+wikipedia Industrial Revolution," ""wikipedia"""
+wikipedia Great Wall of China," ""wikipedia"""
+wikipedia Solar System," ""wikipedia"""
+wikipedia Shakespeare," ""wikipedia"""
+wikipedia Renaissance," ""wikipedia"""
+wikipedia Penicillin," ""wikipedia"""
+wikipedia Ancient Egypt," ""wikipedia"""
+https://www.bbc.com/news," ""scraper"""
+https://edition.cnn.com," ""scraper"""
+https://www.reuters.com," ""scraper"""
+https://www.theguardian.com/international," ""scraper"""
+https://www.aljazeera.com," ""scraper"""
+https://www.forbes.com," ""scraper"""
+https://www.bloomberg.com," ""scraper"""
+https://www.nytimes.com," ""scraper"""
+https://www.washingtonpost.com," ""scraper"""
+https://www.ft.com," ""scraper"""
+https://www.wsj.com," ""scraper"""
+https://www.nbcnews.com," ""scraper"""
+https://www.cnbc.com," ""scraper"""
+https://www.foxnews.com," ""scraper"""
+https://www.abcnews.go.com," ""scraper"""
+https://www.usatoday.com," ""scraper"""
+https://www.latimes.com," ""scraper"""
+https://www.npr.org," ""scraper"""
+https://www.vox.com," ""scraper"""
+https://www.politico.com," ""scraper"""
+Search for the latest news on climate change.," ""search"""
+Find the latest updates on the global energy crisis.," ""search"""
+Search for information about the Artemis space mission.," ""search"""
+Search for news about the US presidential elections.," ""search"""
+Find updates on the economic situation in Europe.," ""search"""
+Look for news on the volcanic eruption in Hawaii.," ""search"""
+What are the latest updates in the tech industry?," ""search"""
+Find out the most important news of the day.," ""search"""
+Search for news on new cancer treatments.," ""search"""
+Look for news on the discovery of new animal species.," ""search"""
+Search for information on the United Nations conference.," ""search"""
+Find news about the latest G7 summit.," ""search"""
+What are the latest updates on fiscal policies?," ""search"""
+Look for updates on Hollywood's film industry.," ""search"""
+Search for news on recent archaeological discoveries.," ""search"""
+Find information on social protests in France.," ""search"""
+Find updates on the refugee crisis in the Middle East.," ""search"""
+Search for news on advancements in nuclear fusion.," ""search"""
+Search for information on human rights in China.," ""search"""
+Find the latest news on the stock market.," ""search"""
+Can you tell me a funny story?," ""chat"""
+Write a Python script?," ""chat"""
+Tell me a joke.," ""chat"""
+What do you think about the future of artificial intelligence?," ""chat"""
+"I'd like to discuss philosophy, what do you think about free will?"," ""chat"""
+What's your favorite book?," ""chat"""
+What are the best vacation destinations?," ""chat"""
+Do you like board games?," ""chat"""
+What makes a perfect day for you?," ""chat"""
+What is happiness to you?," ""chat"""
+What are the latest trends in fashion?," ""chat"""
+I'd like to talk about how to manage stress.," ""chat"""
+What do you think about classical music?," ""chat"""
+can you tell me an interesting fact?," ""chat"""
+Write Python code to calculate the area of a square rectangle?," ""chat"""
+What are the benefits of chamomile?," ""chat"""
+what do you think about climate change?," ""chat"""
+"Hello, what's your favorite sport?"," ""chat"""
+"Good morning, do you have any tips for staying motivated?"," ""chat"""
+Can you recommend an interesting book?," ""chat"""
+Create an image of a ancient temple.,image
+Wikipedia French Revolution,wikipedia
+Generate an image of a city skyline at night.,image
+Find the latest updates on the global energy crisis.,search
+Generate a drawing of a astronaut on Mars.,image
+Can you recommend an interesting book?,chat
+Generate an image of a astronaut on Mars.,image
+Find out the most important news of the day.,search
+Search for information on human rights in China.,search
+https://www.bbc.com/news,scraper
+Wikipedia Industrial Revolution,wikipedia
+https://www.washingtonpost.com,scraper
+Wikipedia Byzantine Empire,wikipedia
+https://www.theguardian.com/international,scraper
+Graphically represent a lush bamboo forest.,image
+https://www.politico.com,scraper
+https://edition.cnn.com,scraper
+Search for news on advancements in nuclear fusion.,search
+Graphically represent a volcanic island.,image
+https://www.politico.com,scraper
+https://www.vox.com,scraper
+Wikipedia Eiffel Tower,wikipedia
+Draw a colorful autumn park.,image
+Wikipedia Albert Einstein,wikipedia
+Search for news on new cancer treatments.,search
+Find news about the latest G7 summit.,search
+Wikipedia History of the United States of America,wikipedia
+https://www.bloomberg.com,scraper
+https://www.reuters.com,scraper
+What's your favorite book?,chat
+Do you like board games?,chat
+Wikipedia Great Wall of China,wikipedia
+Search for news on new cancer treatments.,search
+Do you like board games?,chat
+https://edition.cnn.com,scraper
+Wikipedia Ancient Rome,wikipedia
+https://www.cnbc.com,scraper
+https://www.reuters.com,scraper
+Wikipedia Penicillin,wikipedia
+https://www.bloomberg.com,scraper
+What are the latest updates on fiscal policies?,search
+Find updates on the economic situation in Europe.,search
+https://www.aljazeera.com,scraper
+Wikipedia Renaissance,wikipedia
+What makes a perfect day for you?,chat
+can you tell me an interesting fact?,chat
+What do you think about classical music?,chat
+https://www.nytimes.com,scraper
+Wikipedia Shakespeare,wikipedia
+Search for information about the Artemis space mission.,search
+Generate a drawing of a red fox in a forest.,image
+Find the latest news on the stock market.,search
+Graphically represent a rolling lavender field.,image
+Find updates on the refugee crisis in the Middle East.,search
+https://www.npr.org,scraper
+Generate a drawing of a golden retriever puppy.,image
+https://www.theguardian.com/international,scraper
+https://www.foxnews.com,scraper
+Wikipedia Great Wall of China,wikipedia
+Can you create an image of a golden retriever puppy?,image
+What do you think about the future of artificial intelligence?,chat
+https://www.latimes.com,scraper
+What are the best vacation destinations?,chat
+Wikipedia History of the United States of America,wikipedia
+Wikipedia Renaissance,wikipedia
+Can you tell me a funny story?,chat
+What are the latest trends in fashion?,chat
+Search for the latest news on climate change.,search
+I want an illustration of a ancient temple.,image
+Draw a colorful autumn park.,image
+Can you show me a painting of a volcanic island?,image
+Wikipedia French Revolution,wikipedia
+Search for news on advancements in nuclear fusion.,search
+Wikipedia Dinosaurs,wikipedia
+Can you recommend an interesting book?,chat
+What are the latest updates in the tech industry?,search
+What are the best vacation destinations?,chat
+https://www.cnbc.com,scraper
+https://www.abcnews.go.com,scraper
+Write Python code to calculate the area of a square rectangle?,chat
+Draw a colorful autumn park.,image
+https://www.bbc.com/news,scraper
+"Hello, what's your favorite sport?",chat
+Wikipedia Penicillin,wikipedia
+Wikipedia Leonardo da Vinci,wikipedia
+Create an image of a astronaut on Mars.,image
+I want an illustration of a city skyline at night.,image
+Wikipedia Dinosaurs,wikipedia
+What are the latest updates in the tech industry?,search
+"I'd like to discuss philosophy, what do you think about free will?",chat
+"Good morning, do you have any tips for staying motivated?",chat
+Find out the most important news of the day.,search
+Look for updates on Hollywood's film industry.,search
+Wikipedia Albert Einstein,wikipedia
+Graphically represent a moonlit harbor.,image
+Search for news on recent archaeological discoveries.,search
+Generate a drawing of a sunrise over mountains.,image
+https://www.theguardian.com/international,scraper
+Wikipedia Byzantine Empire,wikipedia
+Wikipedia Renaissance,wikipedia
+Find updates on the economic situation in Europe.,search
+Look for news on the volcanic eruption in Hawaii.,search
+https://www.abcnews.go.com,scraper
+Wikipedia Eiffel Tower,wikipedia
+Search for news on advancements in nuclear fusion.,search
+Create an image of a golden retriever puppy.,image
+Draw a moonlit harbor.,image
+Find information on social protests in France.,search
+Wikipedia Isaac Newton,wikipedia
+I would like to see a portrait of a stormy ocean.,image
+Search for news on new cancer treatments.,search
+Look for news on the discovery of new animal species.,search
+Search for news on advancements in nuclear fusion.,search
+Find updates on the economic situation in Europe.,search
+Wikipedia Michelangelo,wikipedia
+Wikipedia Ancient Rome,wikipedia
+"Hello, what's your favorite sport?",chat
+I want an illustration of a sunrise over mountains.,image
+What are the benefits of chamomile?,chat
+what do you think about climate change?,chat
+Wikipedia Ancient Rome,wikipedia
+Tell me a joke.,chat
+Wikipedia Eiffel Tower,wikipedia
+Tell me a joke.,chat
+Wikipedia Isaac Newton,wikipedia
+I would like a drawing of a rolling lavender field.,image
+Write a Python script?,chat
+Tell me a joke.,chat
+Search for information on human rights in China.,search
+what do you think about climate change?,chat
+https://www.washingtonpost.com,scraper
+Wikipedia World War II,wikipedia
+Wikipedia Dinosaurs,wikipedia
+Find updates on the economic situation in Europe.,search
+https://www.abcnews.go.com,scraper
+https://www.reuters.com,scraper
+Can you show me a painting of a rolling lavender field?,image
+Generate a drawing of a golden retriever puppy.,image
+What makes a perfect day for you?,chat
+Wikipedia History of the United States of America,wikipedia
+Draw a underwater coral reef.,image
+Wikipedia Great Wall of China,wikipedia
+What is happiness to you?,chat
+what do you think about climate change?,chat
+Generate an image of a ancient temple.,image
+Wikipedia Dinosaurs,wikipedia
+Generate a drawing of a golden retriever puppy.,image
+https://www.ft.com,scraper
+What are the best vacation destinations?,chat
+https://www.bloomberg.com,scraper
+https://www.latimes.com,scraper
+Search for news on new cancer treatments.,search
+Generate a drawing of a stormy ocean.,image
+Create an image of a butterfly on a flower.,image
+https://www.forbes.com,scraper
+Search for news on advancements in nuclear fusion.,search
+Search for news on advancements in nuclear fusion.,search
+Generate a drawing of a city skyline at night.,image
+Write a Python script?,chat
+https://www.vox.com,scraper
+"I'd like to discuss philosophy, what do you think about free will?",chat
+Find updates on the economic situation in Europe.,search
+Can you create an image of a butterfly on a flower?,image
+https://www.bloomberg.com,scraper
+Wikipedia Albert Einstein,wikipedia
+https://www.npr.org,scraper
+Find the latest news on the stock market.,search
+Wikipedia Theory of Relativity,wikipedia
+Wikipedia Galileo Galilei,wikipedia
+Search for the latest news on climate change.,search
+Wikipedia World War II,wikipedia
+Find out the most important news of the day.,search
+https://www.forbes.com,scraper
+Graphically represent a rainy cobblestone alley.,image
+Wikipedia Byzantine Empire,wikipedia
+Find news about the latest G7 summit.,search
+https://www.nytimes.com,scraper
+Wikipedia Leonardo da Vinci,wikipedia
+Wikipedia Isaac Newton,wikipedia
+https://www.washingtonpost.com,scraper
+Can you create an image of a butterfly on a flower?,image
+Search for news on advancements in nuclear fusion.,search
+https://www.bbc.com/news,scraper
+Can you create an image of a red fox in a forest?,image
+https://edition.cnn.com,scraper
+I would like a drawing of a lush bamboo forest.,image
+https://www.foxnews.com,scraper
+what do you think about climate change?,chat
+Graphically represent a futuristic laboratory.,image
+https://edition.cnn.com,scraper
+Search for the latest news on climate change.,search
+"Hello, what's your favorite sport?",chat
+Wikipedia History of the United States of America,wikipedia
+Search for information about the Artemis space mission.,search
+https://www.politico.com,scraper
+https://www.theguardian.com/international,scraper
+https://www.latimes.com,scraper
+https://www.foxnews.com,scraper
+https://www.cnbc.com,scraper
+https://www.npr.org,scraper
+Wikipedia Byzantine Empire,wikipedia
+What are the latest updates on fiscal policies?,search
+Wikipedia Ancient Egypt,wikipedia
+What is happiness to you?,chat
+Search for news on advancements in nuclear fusion.,search
+Can you create an image of a ancient temple?,image
+Search for information on human rights in China.,search
+What are the latest trends in fashion?,chat
+Search for news on recent archaeological discoveries.,search
+What are the latest updates in the tech industry?,search
+What are the benefits of chamomile?,chat
+Wikipedia Eiffel Tower,wikipedia
+https://www.latimes.com,scraper
+What are the latest trends in fashion?,chat
+Draw a futuristic laboratory.,image
+Wikipedia French Revolution,wikipedia
+Create an image of a astronaut on Mars.,image
+Tell me a joke.,chat
+Look for updates on Hollywood's film industry.,search
+What are the best vacation destinations?,chat
+Find information on social protests in France.,search
+Find out the most important news of the day.,search
+Wikipedia Leonardo da Vinci,wikipedia
+Graphically represent a quiet village street.,image
+Write Python code to calculate the area of a square rectangle?,chat
+Generate an image of a astronaut on Mars.,image
+Find updates on the economic situation in Europe.,search
+Find updates on the refugee crisis in the Middle East.,search
+Can you recommend an interesting book?,chat
+https://www.abcnews.go.com,scraper
+what do you think about climate change?,chat
+Search for news on advancements in nuclear fusion.,search
+Look for news on the volcanic eruption in Hawaii.,search
+Search for news on recent archaeological discoveries.,search
+https://www.nytimes.com,scraper
+https://www.latimes.com,scraper
+Find out the most important news of the day.,search
+https://www.abcnews.go.com,scraper
+Can you create an image of a astronaut on Mars?,image
+https://www.wsj.com,scraper
+Tell me a joke.,chat
+Wikipedia French Revolution,wikipedia
+Wikipedia Isaac Newton,wikipedia
+Wikipedia Byzantine Empire,wikipedia
+Graphically represent a lush bamboo forest.,image
+Write Python code to calculate the area of a square rectangle?,chat
+Find the latest updates on the global energy crisis.,search
+Wikipedia Industrial Revolution,wikipedia
+Search for information on human rights in China.,search
+I would like a drawing of a rainy cobblestone alley.,image
+I want an illustration of a ancient temple.,image
+Search for news on advancements in nuclear fusion.,search
+Can you recommend an interesting book?,chat
+Wikipedia Solar System,wikipedia
+Wikipedia Dinosaurs,wikipedia
+Find information on social protests in France.,search
+Graphically represent a moonlit harbor.,image
+Wikipedia Great Wall of China,wikipedia
+Wikipedia Ancient Egypt,wikipedia
+Can you tell me a funny story?,chat
+Search for information on human rights in China.,search
+Can you tell me a funny story?,chat
+Graphically represent a rainy cobblestone alley.,image
+Wikipedia Ancient Rome,wikipedia
+https://www.cnbc.com,scraper
+https://www.bloomberg.com,scraper
+Search for information on the United Nations conference.,search
+https://www.cnbc.com,scraper
+https://www.foxnews.com,scraper
+https://www.reuters.com,scraper
+Search for the latest news on climate change.,search
+Write a Python script?,chat
+https://www.nytimes.com,scraper
+Create an image of a sunrise over mountains.,image
+Wikipedia Leonardo da Vinci,wikipedia
+"I'd like to discuss philosophy, what do you think about free will?",chat
+Wikipedia French Revolution,wikipedia
+Search for news about the US presidential elections.,search
+What are the best vacation destinations?,chat
+Search for news on new cancer treatments.,search
+https://www.forbes.com,scraper
+Can you recommend an interesting book?,chat
+I would like to see a portrait of a ancient temple.,image
+Can you tell me a funny story?,chat
+https://www.vox.com,scraper
+What are the latest updates on fiscal policies?,search
+Wikipedia Eiffel Tower,wikipedia
+Do you like board games?,chat
+Can you create an image of a desert caravan?,image
+Write a Python script?,chat
+https://www.npr.org,scraper
+Find news about the latest G7 summit.,search
+Generate an image of a butterfly on a flower.,image
+Find information on social protests in France.,search
+Graphically represent a rainy cobblestone alley.,image
+Wikipedia Industrial Revolution,wikipedia
+Wikipedia Shakespeare,wikipedia
+https://www.politico.com,scraper
+What are the benefits of chamomile?,chat
+Look for updates on Hollywood's film industry.,search
+What makes a perfect day for you?,chat
+https://www.nytimes.com,scraper
+Can you create an image of a snowy cabin?,image
+Search for information on human rights in China.,search
+What do you think about classical music?,chat
+https://www.bbc.com/news,scraper
+Search for information on the United Nations conference.,search
+Wikipedia Solar System,wikipedia
+Wikipedia History of the United States of America,wikipedia
+https://www.wsj.com,scraper
+https://www.politico.com,scraper
+https://www.npr.org,scraper
+Generate an image of a astronaut on Mars.,image
+Wikipedia Industrial Revolution,wikipedia
+Search for news on advancements in nuclear fusion.,search
+Wikipedia Solar System,wikipedia
+Search for news on recent archaeological discoveries.,search
+Generate a drawing of a ancient temple.,image
+Find out the most important news of the day.,search
+https://www.vox.com,scraper
+https://www.usatoday.com,scraper
+what do you think about climate change?,chat
+https://www.foxnews.com,scraper
+What are the latest trends in fashion?,chat
+https://www.abcnews.go.com,scraper
+https://www.ft.com,scraper
+https://www.nytimes.com,scraper
+Draw a colorful autumn park.,image
+What's your favorite book?,chat
+Wikipedia Byzantine Empire,wikipedia
+Search for news on new cancer treatments.,search
+what do you think about climate change?,chat
+What is happiness to you?,chat
+Draw a futuristic laboratory.,image
+https://www.forbes.com,scraper
+https://www.bbc.com/news,scraper
+"I'd like to discuss philosophy, what do you think about free will?",chat
+https://edition.cnn.com,scraper
+Generate an image of a ancient temple.,image
+Search for news about the US presidential elections.,search
+I would like a drawing of a rainy cobblestone alley.,image
+Search for news on recent archaeological discoveries.,search
+https://www.forbes.com,scraper
+Can you create an image of a snowy cabin?,image
+Graphically represent a colorful autumn park.,image
+Write a Python script?,chat
+Wikipedia French Revolution,wikipedia
+What is happiness to you?,chat
+Draw a volcanic island.,image
+Find the latest news on the stock market.,search
+Can you recommend an interesting book?,chat
+Wikipedia Shakespeare,wikipedia
+Search for news on recent archaeological discoveries.,search
+Look for news on the discovery of new animal species.,search
+can you tell me an interesting fact?,chat
+https://www.vox.com,scraper
+Write a Python script?,chat
+What do you think about the future of artificial intelligence?,chat
+Wikipedia Byzantine Empire,wikipedia
+https://www.reuters.com,scraper
+Wikipedia Theory of Relativity,wikipedia
+Wikipedia Renaissance,wikipedia
+I would like to see a portrait of a sunrise over mountains.,image
+Find the latest news on the stock market.,search
+Look for news on the discovery of new animal species.,search
+Draw a underwater coral reef.,image
+Search for information about the Artemis space mission.,search
+Wikipedia Dinosaurs,wikipedia
+What are the best vacation destinations?,chat
+Search for news about the US presidential elections.,search
+Do you like board games?,chat
+Wikipedia Dinosaurs,wikipedia
+Wikipedia Eiffel Tower,wikipedia
+I would like to see a portrait of a ancient temple.,image
+What is happiness to you?,chat
+Search for news about the US presidential elections.,search
+Look for news on the discovery of new animal species.,search
+Search for news on new cancer treatments.,search
+"Hello, what's your favorite sport?",chat
+Search for news on recent archaeological discoveries.,search
+I would like a drawing of a moonlit harbor.,image
+https://www.politico.com,scraper
+https://www.bbc.com/news,scraper
+Draw a rolling lavender field.,image
+Can you create an image of a desert caravan?,image
+Wikipedia Solar System,wikipedia
+Write Python code to calculate the area of a square rectangle?,chat
+https://www.forbes.com,scraper
+can you tell me an interesting fact?,chat
+Search for information about the Artemis space mission.,search
+Find news about the latest G7 summit.,search
+Search for information on the United Nations conference.,search
+https://www.theguardian.com/international,scraper
+Wikipedia World War II,wikipedia
+Find information on social protests in France.,search
+https://www.cnbc.com,scraper
+Write a Python script?,chat
+Search for information about the Artemis space mission.,search
+https://www.washingtonpost.com,scraper
+https://www.theguardian.com/international,scraper
